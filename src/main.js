@@ -19,18 +19,6 @@ function getPosition(event)
 
 
 
-
-//draw
-     var sources = {
-        yellow: 'img/yellow.png',
-        blue: 'img/blue.png',
-        green: 'img/green.png',
-        orange: 'img/orange.png',
-        red: 'img/red.png'
-      };
-      
-
-
 spawnStartElements();
 createGrid();
 redrawBoard();
